@@ -1,12 +1,9 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+Tugas Besar Algoritma
+Nama : Nida Sakina Aulia
+NPM : 714220040
+Kelas : 2B D4 Teknik Informatika
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Flappy Bird 
+PURPOSE OF PROJECT: Tugas Besar Algoritma
